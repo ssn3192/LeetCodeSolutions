@@ -1,3 +1,10 @@
+
+/*Input: Hello World
+Output: World 
+length: 5 */
+
+-------------------Author: Shivani Narang-----------------------------------
+
 import java.util.*;
 import java.util.Scanner.*;
 public class CountofLastword {
@@ -35,3 +42,8 @@ public class CountofLastword {
 	}
 
 }
+
+
+
+
+

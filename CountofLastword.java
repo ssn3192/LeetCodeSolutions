@@ -14,11 +14,11 @@ public class CountofLastword {
 		
      String lastword= word.substring(word.lastIndexOf(" ")+1);
 		
-		System.out.print("last word :" +lastword);
+		System.out.print("last word of the sentence :" +lastword);
 				
 		int len= lastword.length();
 		System.out.println();
-		System.out.println(len);
+		System.out.print("Length of last word:" +len);
 		
 		
 	}

@@ -11,6 +11,8 @@ public class CountofLastword {
 
 	public void Lengthoflastword(String word){
 		
+		if(word.length()==0)
+			return;
 		
      String lastword= word.substring(word.lastIndexOf(" ")+1);
 		

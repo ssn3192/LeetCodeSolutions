@@ -1,3 +1,7 @@
+
+Input: -9772
+Output: -2779
+
 import java.util.*;
 import java.util.Scanner.*;
 public class ReverseInt {
